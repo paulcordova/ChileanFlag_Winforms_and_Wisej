@@ -33,3 +33,6 @@ Esta experiencia refleja lo que ocurre en muchas organizaciones:
 - El legado se convierte en **capital tecnológico vivo**.
 
 Modernizar es honrar el ingenio de quienes escribieron el código original y asegurar que esas soluciones sigan aportando valor hoy.
+
+### Original article - artículo original - Microbyte
+![Original Article](doc/Original_Microbyte_Magazine_Article.png)
