@@ -36,3 +36,18 @@ Modernizar es honrar el ingenio de quienes escribieron el código original y ase
 
 ### Original article - artículo original - Microbyte
 ![Original Article](doc/Original_Microbyte_Magazine_Article.png)
+
+### Wisej
+![Wisej Chilean Flag](doc/Wisej_Chilean_Flag.png)
+
+#### code Wisej
+![Wisej Chilean Flag](doc/Wisej_Chilean_Flag_Code.png)
+
+### Winforms
+![Winform Chilean Flag](doc/Winform_Chilean_Flag.png)
+
+#### code Winform
+![Wisej Chilean Flag](doc/Winform_Chilean_Flag_Code.png)
+
+### FlagClass shared between Wisej-Winforms
+![FlagClass code](doc/FlagDrawerClass.png)
